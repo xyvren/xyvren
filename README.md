@@ -5,84 +5,84 @@
 
 <!-- Typing Effect -->
 <a href="https://github.com/xyvren">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Building+Autonomous+AI+Agents+%26+Workflows;Crafting+Open-Source+Generative+Media+Tools;Full-Stack+Architect+%26+Creative+Hacker;Menjelajah+hal+baru+%7C+Exploring+the+unknown..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Mengembangkan+Autonomous+AI+Agents;Membangun+Pipeline+Generative+Media;Arsitektur+Sistem+Full-Stack+%26+Tools;Menjelajah+hal+baru+%7C+Exploring+the+unknown..." alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Status Badges -->
-[![Profile Views](https://komarev.com/ghpvc/?username=xyvren&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/xyvren)
-[![Focus](https://img.shields.io/badge/Focus-Autonomous_AI_Agents-0ea5e9?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/xyvren)
+[![Profile Views](https://komarev.com/ghpvc/?username=xyvren&color=6366f1&style=for-the-badge&label=KUNJUNGAN+PROFIL)](https://github.com/xyvren)
+[![Focus](https://img.shields.io/badge/Fokus-Autonomous_AI_Agents-0ea5e9?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/xyvren)
 [![Open Source](https://img.shields.io/badge/Open_Source-Passionate-6366f1?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/xyvren)
-[![Location](https://img.shields.io/badge/Location-Indonesia-22c55e?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/xyvren)
+[![Location](https://img.shields.io/badge/Lokasi-Indonesia-22c55e?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/xyvren)
 
 </div>
 
 ---
 
-### ⚡ About Me
+### ⚡ Tentang Saya
 
 ```yaml
-identity:
-  name: Chakim Fadlan
+identitas:
+  nama: Chakim Fadlan
   handle: xyvren
-  role: AI Engineer & Full-Stack Systems Builder
-  location: Indonesia 🇮🇩
+  peran: AI Engineer & Full-Stack Systems Builder
+  lokasi: Indonesia 🇮🇩
   motto: "Menjelajah hal baru | Exploring the unknown"
 
-focus_areas:
+bidang_fokus:
   - Autonomous AI Agents & Multi-Agent Orchestration
-  - Generative AI Pipelines (Video, Audio, Image Synthesis)
-  - Full-Stack Architecture & High-Performance Web Apps
-  - Open-Source Developer Tools & Self-Hosted Alternatives
+  - Generative AI Pipelines (Sintesis Video, Audio, Visual)
+  - Arsitektur Full-Stack & Layanan Berperforma Tinggi
+  - Open-Source Tools & Solusi Mandiri (Self-Hosted)
 ```
 
-> 👋 **Hi there!** I'm an engineer passionate about building autonomous software, generative intelligence, and high-leverage developer tooling. I focus on taking complex AI architectures and turning them into practical, open-source solutions that empower creators and builders worldwide.
+> 👋 **Halo!** Saya seorang engineer yang berfokus pada pengembangan autonomous software, generative intelligence, dan developer tooling berperforma tinggi. Fokus saya adalah merancang arsitektur AI yang kompleks menjadi solusi open-source yang praktis, cepat, dan berdampak nyata bagi para builder dan kreator.
 
-- 🔭 **Currently Building**: Advanced autonomous multi-agent operating environments and generative video pipelines.
-- 🎯 **Primary Focus**: Autonomous software agents, multimodal pipelines, and developer tooling.
-- 🧠 **Researching**: Context-aware LLM tool orchestration, multimodal synthesis, and edge inference.
-- 💬 **Ask Me About**: Python, AI Agents, Prompt Engineering, Media Pipelines, and Full-Stack development.
-- ⚡ **Philosophy**: *Make it open, make it fast, and keep exploring the unknown.*
+- 🔭 **Sedang Dibangun**: Ekosistem multi-agent autonomous dan pipeline video generatif multimodal.
+- 🎯 **Fokus Utama**: Autonomous software agents, multimodal pipelines, dan developer tooling.
+- 🧠 **Eksplorasi & Riset**: Context-aware LLM tool orchestration, sintesis multimodal, dan efisiensi inferensi lokal/edge.
+- 💬 **Diskusi Terbuka**: Python, Autonomous Agents, Prompt Engineering, Media Pipelines, dan Full-Stack Development.
+- ⚡ **Filosofi**: *Terbuka, efisien, dan terus menjelajah hal baru.*
 
 ---
 
-### 🧩 Core Engineering Domains
+### 🧩 Domain Rekayasa & Fokus Teknis
 
 <div align="center">
 
-| Domain | Core Focus & Architecture | Key Capabilities |
+| Bidang | Fokus Arsitektur & Implementasi | Kapabilitas Kunci |
 | :--- | :--- | :--- |
-| 🤖 **Autonomous AI Systems** | Multi-agent orchestration, dynamic tool execution, structured reasoning loops, and durable memory persistence. | `Agentic Workflows` `Tool Calling` `Memory Systems` |
-| ⚡ **Generative Media Pipelines** | End-to-end multimodal synthesis (Audio/Video/Vision), real-time Whisper transcription, and automated video processing. | `FFmpeg` `Whisper` `Diffusion Models` |
-| 🌐 **Full-Stack & Systems** | High-performance asynchronous backend services, low-latency API bridges, and responsive modern web architectures. | `FastAPI` `Node.js` `React / Next.js` |
-| 🛡️ **Open-Source & Tooling** | Developer ergonomics, self-hosted alternatives, modular CLI utilities, and lightweight inference optimization. | `Docker` `Linux` `Self-Hosted Tools` |
+| 🤖 **Sistem AI Otonom** | Multi-agent orchestration, dynamic tool execution, structured reasoning loops, dan durable memory persistence. | `Agentic Workflows` `Tool Calling` `Memory Systems` |
+| ⚡ **Pipeline Media Generatif** | Sintesis multimodal menyeluruh (Audio/Video/Visual), transkripsi real-time Whisper, dan otomatisasi pemrosesan video. | `FFmpeg` `Whisper` `Diffusion Models` |
+| 🌐 **Full-Stack & Sistem** | Layanan backend asinkron berkecepatan tinggi, integrasi protokol real-time, dan arsitektur web modern yang responsif. | `FastAPI` `Node.js` `React / Next.js` |
+| 🛡️ **Infrastruktur Open-Source** | Developer ergonomics, solusi mandiri (self-hosted), CLI tooling modular, dan optimasi efisiensi komputasi lokal. | `Docker` `Linux` `Self-Hosted Tools` |
 
 </div>
 
 ---
 
-### ⚙️ Engineering Principles
+### ⚙️ Prinsip Rekayasa (Engineering Principles)
 
 ```bash
-[01] SYSTEM MODULARITY   :: Decoupled architectures that scale horizontally and adapt easily.
-[02] LOW-LATENCY FIRST   :: Lean memory footprint, async concurrency, and optimized pipelines.
-[03] OPEN & EXTENSIBLE   :: Transparent, hackable, and built for developer autonomy.
-[04] PRACTICAL UTILITY   :: Solving real workflow friction over conceptual complexity.
+[01] MODULARITAS SISTEM   :: Arsitektur terisolasi yang mudah diskalakan dan beradaptasi fleksibel.
+[02] LOW-LATENCY FIRST    :: Jejak memori minimal, konkurensi asinkron, dan pipeline teroptimasi.
+[03] TERBUKA & EXTENSIBLE :: Transparan, mudah dimodifikasi, dan memberikan kontrol penuh ke developer.
+[04] SOLUSI PRAKTIS       :: Menyelesaikan friksi workflow nyata daripada sekadar kompleksitas teori.
 ```
 
 ---
 
-### 🛠️ Tech Arsenal
+### 🛠️ Keahlian & Teknologi (Tech Arsenal)
 
 <div align="center">
 
-#### 💻 Languages & Core
-<img src="https://skillicons.dev/icons?i=python,js,ts,php,bash,c" alt="Languages" />
+#### 💻 Bahasa Pemrograman & Inti
+<img src="https://skillicons.dev/icons?i=python,js,ts,php,bash,c" alt="Bahasa Pemrograman" />
 
 <br/>
 
-#### 🧠 Artificial Intelligence & Media Processing
+#### 🧠 Kecerdasan Buatan & Pemrosesan Media
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,fastapi" alt="AI & Media" />
 
 <br/>
@@ -92,14 +92,14 @@ focus_areas:
 
 <br/>
 
-#### 🗄️ Databases, Cloud & DevOps
+#### 🗄️ Database, Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=postgres,redis,docker,git,github,linux,postman,figma" alt="DevOps & Tools" />
 
 </div>
 
 ---
 
-### 📊 GitHub Activity & Streak
+### 📊 Aktivitas GitHub & Konsistensi
 
 <div align="center">
 
@@ -109,11 +109,11 @@ focus_areas:
 
 ---
 
-### 🤝 Let's Connect & Collaborate
+### 🤝 Mari Terhubung & Berkolaborasi
 
 <div align="center">
 
-Looking to collaborate on **Autonomous AI Agents**, **Generative Video/Image Systems**, or **Open-Source Infrastructure**? Feel free to reach out!
+Tertarik berkolaborasi dalam pengembangan **Autonomous AI Agents**, **Sistem Generatif Media**, atau **Infrastruktur Open-Source**? Silakan hubungi saya melalui jalur berikut:
 
 <br/>
 
