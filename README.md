@@ -53,6 +53,7 @@ focus_areas:
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| 🧠 **[Kimfa-0.1](https://github.com/xyvren/Kimfa-0.1)** | **Custom Fine-Tuned Small Language Model.** Trained on top of `Qwen2.5-3B-Instruct` and optimized for efficient inference on low-memory / edge devices. | `PyTorch` `Qwen` `Hugging Face` `Transformers` |
 | 🎬 **[AI-Youtube-Shorts-Generator](https://github.com/xyvren/AI-Youtube-Shorts-Generator)** | **Open-source alternative to Opus Clip, Vidyo.ai & Klap.** Automatically detects viral highlights in long-form videos, generates synchronized captions via Whisper, and performs dynamic 9:16 vertical re-framing. | `Python` `Whisper` `FFmpeg` `OpenCV` `LLM` |
 | 🎨 **[Open-Higgsfield-AI](https://github.com/xyvren/Open-Higgsfield-AI)** | **Open-source alternative to Higgsfield AI & Cinema Studio.** Self-hosted multi-model studio with 20+ models (Flux, SDXL, Ideogram) for rapid cinematic AI image and video asset generation. | `JavaScript` `Node.js` `Generative AI` `TailwindCSS` |
 | 🤖 **[xyvren_agent](https://github.com/xyvren/xyvren_agent)** | **Autonomous AI Workspace Agent.** Modular reasoning engine designed to orchestrate tool use, persistent memory, and automated workflows across local and cloud environments. | `Python` `FastAPI` `Agent Architecture` `Tool Engine` |
