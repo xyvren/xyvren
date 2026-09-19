@@ -47,21 +47,6 @@ bidang_fokus:
 
 ---
 
-### 🧩 Domain Rekayasa & Fokus Teknis
-
-<div align="center">
-
-| Bidang | Fokus Arsitektur & Implementasi | Kapabilitas Kunci |
-| :--- | :--- | :--- |
-| 🤖 **Sistem AI Otonom** | Multi-agent orchestration, dynamic tool execution, structured reasoning loops, dan durable memory persistence. | `Agentic Workflows` `Tool Calling` `Memory Systems` |
-| ⚡ **Pipeline Media Generatif** | Sintesis multimodal menyeluruh (Audio/Video/Visual), transkripsi real-time Whisper, dan otomatisasi pemrosesan video. | `FFmpeg` `Whisper` `Diffusion Models` |
-| 🌐 **Full-Stack & Sistem** | Layanan backend asinkron berkecepatan tinggi, integrasi protokol real-time, dan arsitektur web modern yang responsif. | `FastAPI` `Node.js` `React / Next.js` |
-| 🛡️ **Infrastruktur Open-Source** | Developer ergonomics, solusi mandiri (self-hosted), CLI tooling modular, dan optimasi efisiensi komputasi lokal. | `Docker` `Linux` `Self-Hosted Tools` |
-
-</div>
-
----
-
 ### ⚙️ Prinsip Rekayasa (Engineering Principles)
 
 ```bash
